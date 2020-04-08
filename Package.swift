@@ -17,7 +17,6 @@ let package = Package(
         .target(
             name: "TinyLog",
             dependencies: [],
-            path: "TinyLog",
-        ),
+            path: "TinyLog"),
     ]
 )
